@@ -1,6 +1,6 @@
 # World Countries Data from API
 
-This application was built using plain(Vanilla) JS. The application displays all the name of countries, their capital city and their populations in the world. It is possible to search countries by name, capital or langauge or it can by sorted by name, capital or populations. In addition to that, it visualize the ten most populated  countries and the ten most spoken lanagues using bar graph. The data is fetched from an [API](https://restcountries.eu/rest/v2/all) To know more about it, check the [demo](https://asabeneh.github.io/world-countries-data-api/).
+This application was built using plain(Vanilla) JS. The application displays all the name of countries, their capital city and their populations in the world. It is possible to search countries by name, capital or langauge or it can by sorted by name, capital or populations. In addition to that, it visualize the ten most populated  countries and the ten most spoken lanagues using bar graph. The data is fetched from an [API](https://restcountries.eu/rest/v2/all) To know more about it, check the [demo](https://huynhxuanlam-it44.github.io/World-Countries-Data-Api/).
 
 ### Technologies
 
@@ -14,6 +14,6 @@ The following technologies are used to develop this application:
    
 
 ### Author
-Mr. ...
+Mr. Lam
 ### Demo
-[Go Live](https://asabeneh.github.io/world-countries-data-api/)
+[Go Live](https://huynhxuanlam-it44.github.io/World-Countries-Data-Api/)
