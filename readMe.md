@@ -14,6 +14,6 @@ The following technologies are used to develop this application:
    
 
 ### Author
-Asabeneh Yetayeh
+Mr. ...
 ### Demo
 [Go Live](https://asabeneh.github.io/world-countries-data-api/)
